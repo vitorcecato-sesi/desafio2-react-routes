@@ -14,6 +14,7 @@ function Pagina1 () {
        Estrelas="estrelas aqui"
        Valor="Valor: R$ 4.569.20"
        Proximo='Proximo'
+       Link = ""
       />
   </center>
       </>
