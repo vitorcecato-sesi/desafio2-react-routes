@@ -2,3 +2,23 @@
     margin: 0;
     padding: 0;
 }
+
+.banner {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 100vw;
+    height: 40vh;
+
+    background-image: url("../../assets/banner.png");
+    color: white;
+}
+
+.banner h1{
+    padding-left: 3em;
+    font-size: 3em;
+}
+
+.banner span {
+    color: #2D9BF0;
+}
