@@ -10,6 +10,8 @@
 
 // Fotos
     import Interlakqn from "../assets/"
+    import Paris from "../assets/"
+    import Disney from "../assets"
     import NewYork from "../assets/NewYork.png"
 //.
 
@@ -43,7 +45,7 @@ function Home(){
                     <Card
                         imagem= {Disney}
                         nomeLugar= "Disney - Estados Unidos"
-                        breveDescricao= ""
+                        breveDescricao= "A Disney é um lugar mágico onde sonhos ganham vida! Com parques temáticos incríveis, personagens encantados e atrações para todas as idades, oferece experiências inesquecíveis para toda a família. Seja em Orlando, Paris, Tóquio ou outras localizações, a Disney é um destino perfeito para quem busca diversão, aventura e momentos de pura fantasia."
                         direcionar= ""
                         valor= ""
                     />
