@@ -21,10 +21,11 @@
 .imagem{
     width: 60%;
     height: 60%;
+    border-radius: 1em;
 }
 
 .Descricao{
-
+text-align: justify;
     display: flex;
 border: black solid 2px;
   border-radius: 10%;
@@ -49,8 +50,9 @@ border: black solid 2px;
     background-color: #12CDD4;
     padding: 0.8em;
     width: 7em;
+    
 }
 
 .BoxBotao{
-    padding-top:0.9em;
+    padding-top:1.9em;
 }
