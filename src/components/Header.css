@@ -1,0 +1,49 @@
+/* Header Box */
+.headerBox {
+    /* Flexbox Configurações */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+
+    /* Tamanho */
+    height: 20vh;
+
+    /* Estilização */
+    background-color: #CDFBF1;
+}
+
+/* Logo */
+.logoHeader {
+    width: 10vw;
+    height: 20vh;
+    transition: 1s
+}
+
+.logoHeader:hover {
+    transform: scale(1.1);
+    background-color: rgb(171, 255, 171);
+    border-radius: 100%;
+}
+
+/* Título */
+.headerBox h1 {
+    color: #2D9BF0;
+    font-size: 2.5em;
+}
+
+/* Imagem Github */
+.imgGithub {
+    width: 3vw;
+    height: auto;
+    padding: 2em 3em;
+    transition: all 1s ease;
+    filter: drop-shadow(0px 0px 20px rgb(85, 85, 85));
+}
+
+.imgGithub:hover {
+    transform: scale(1.1);
+    transition: all 1s ease;
+    border-radius: 90%;
+    background-color: rgb(255, 255, 255);
+}
