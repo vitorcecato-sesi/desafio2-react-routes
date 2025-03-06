@@ -1,0 +1,14 @@
+.blocoCard {
+    background-color: #F7F4F4;
+    display: flex;
+    flex-direction: column;
+}
+
+.blocoCard2 {
+    display: flex;
+    flex-direction: row;
+}
+
+.imagem {
+    
+}
