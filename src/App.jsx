@@ -8,6 +8,7 @@
 
 // Pages
   import Home from './pages/Home'
+  import Page4 from './pages/Page4'
 //.
 
 function App() {
@@ -20,9 +21,9 @@ function App() {
           <Route path='/paris-franca' element={} />
           <Route path='/disney-eua' element={} /> 
           <Route path='/newyork-eua' element={} />          */}
+          <Route path='/newyork-eua' element={<Page4/>} />  
         </Routes>
       </BrowserRouter>
-      <Pagina1/>
     </>
   )
 }
