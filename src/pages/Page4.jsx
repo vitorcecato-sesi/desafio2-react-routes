@@ -2,6 +2,7 @@ import "../pages/style/page4.css"
 import Card from "../components/Card"
 import Header from "../components/Header"
 import NovaYork from "../assets/NewYork.png"
+import Footer from "../components/Footer"
 
 function Page4(){
     return (
@@ -18,6 +19,7 @@ function Page4(){
          Link = "http://localhost:5173/interlaken-suica"
         />
     </center>
+    <Footer/>
         </> 
       );
 }
