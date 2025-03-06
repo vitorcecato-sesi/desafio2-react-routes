@@ -8,6 +8,7 @@
 
 // Pages
   import Home from './pages/Home'
+  import Pagina1 from './pages/Pagina1'
 //.
 
 function App() {
@@ -16,7 +17,7 @@ function App() {
       <BrowserRouter>
         <Routes>
           <Route path='/' element={<Home/>} />
-          <Route path='/interlakqn-suica' element={}/>
+          <Route path='/interlakqn-suica' element={<Pagina1/>}/>
           <Route path='/paris-franca' element={} />
           <Route path='/disney-eua' element={} /> 
           <Route path='/newyork-eua' element={} />         
