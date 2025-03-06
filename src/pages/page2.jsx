@@ -13,7 +13,7 @@ function Pagina2 () {
        Estrelas="⭐⭐⭐⭐⭐"
        Valor="Valor: R$ 5000,00"
        Proximo='Proximo'
-       Link="http://localhost:5173/"
+       Link="http://localhost:5173/disney-eua"
       />
   </center>
       </>
