@@ -20,6 +20,10 @@
     padding-bottom: 4em;
 }
 
+.ImagemETitulo{
+    padding-bottom: 4em;
+}
+
 .Descricao{
     display: flex;
     border: black solid 2px;
