@@ -1,5 +1,6 @@
 // Style
     import "./style/Home.css"
+    import NewYork from "../assets/NewYork.png"
 //.
 
 // Componentes
@@ -9,6 +10,7 @@
 
 function Home(){
     return(
+<<<<<<< HEAD
         <>
             <Header />
             <Navbar/>
@@ -16,6 +18,11 @@ function Home(){
                 <h1>AS <span>MELHORES</span> <br /> VIAGENS DO <span>MUNDO <br /> INTEIRO</span></h1>
             </section>
         </>
+=======
+    <>
+    
+    </>
+>>>>>>> origin/CardViagensHome
     )
 }
 
