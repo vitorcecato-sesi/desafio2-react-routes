@@ -22,6 +22,7 @@ function App() {
           <Route path='/newyork-eua' element={} />          */}
         </Routes>
       </BrowserRouter>
+      <Pagina1/>
     </>
   )
 }
