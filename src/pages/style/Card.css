@@ -11,15 +11,13 @@
     margin-top : 6em ;
 }
 
-.Valor{
-    background-color: #E6E6E6;
-    padding: 0.4em;
-    width: 100%;
-}
-
 .imagem{
     width: 60%;
     height: 60%;
+}
+
+.ImagemETitulo{
+    padding-bottom: 4em;
 }
 
 .Descricao{
@@ -33,9 +31,12 @@
 
 }
 
-.ImagemETitulo{
-    padding-bottom: 4em;
+.Valor{
+    background-color: #E6E6E6;
+    padding: 0.4em;
+    width: 100%;
 }
+
 
 .Estrelas{
     padding-top: 2em;
