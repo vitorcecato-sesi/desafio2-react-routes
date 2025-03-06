@@ -27,12 +27,12 @@ function Card (props) {
         <section className="blocoCard">
             <img className="imagemVia" src={props.imagem}></img>
             <section className="blocoTextos">
-            <h2>{props.nomeLugar}</h2>
-            <p>{props.breveDescricao}</p>
+                <h2>{props.nomeLugar}</h2>
+                <p>{props.breveDescricao}</p>
             </section>
             <section className="blocoCard2">
-            <button className="botaoCurtida" onClick={curtindo}>{curtir} <span>{contaCurtida}</span></button>
-            <p>⭐⭐⭐⭐⭐</p>
+                <button className="botaoCurtida" onClick={curtindo}>{curtir} <span>{contaCurtida}</span></button>
+                <p>{props.estrela}</p>
             </section>
             <a href={props.direcionar} className="explorar">Explorar</a>
             <p className="valor">{props.valor}</p>
