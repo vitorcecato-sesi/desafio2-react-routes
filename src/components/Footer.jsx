@@ -41,7 +41,7 @@ function Footer () {
                 <a href=""></a>⛰️ Suiça <br/>
                 <a href="">🥐 Paris </a> <br/>
                 <a href="">🏰 Disney Word </a> <br/>
-                <a href="">🗽 New York </a>
+                <a href="">🗽 Nova York </a>
             </section>
 
             <section className="listas"> 
@@ -52,19 +52,15 @@ function Footer () {
                     <a href="https://www.aa.com.br/homePage.do?locale=pt_BR"> American Arlines</a> <br/>
                     <a href="https://www.airchina.com.br/BR/PO/Home"> Air China </a> <br/>
                     <a href="https://www.emirates.com/br/portuguese/"> Emirates </a>  
-                
             </section>
 
             <section className="listas">  
                 <h4> ✈️ Companhias Aéreas Nacionais </h4>
-                <ul>
                     <a href="https://www.voeazul.com.br/br/pt/home"> Azul </a> <br/>
                     <a href="https://www.voegol.com.br/"> VoeGol </a> <br/>
                     <a href="https://www.latamairlines.com/br/pt"> Latam</a> <br/>
                     <a href="https://www.voepass.com.br/empresa/site/"> VoePass </a> <br/>
                     <a href="https://www.avianca.com/pt/"> Avianca</a>            
-                </ul>
-
             </section>
 
         </section>
@@ -85,16 +81,8 @@ function Footer () {
                 <h4> Pyetro Joaquim Taborda Nunes </h4>
                 <h4> Vitor Geraldo Cecato </h4>
             </section>
-            
         </section>
-
-
-        
-
-
-        
         </>
-
     )
 }
 
