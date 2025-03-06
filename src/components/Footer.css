@@ -1,0 +1,65 @@
+body{
+    background-color: #E6E6E6;
+}
+
+.infoContatos{
+    display: flex;
+    justify-content: space-around;
+}
+
+.info{
+    display: flex;
+    flex-direction: row;
+    gap: 0.3em;
+}
+
+.redes{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 1em;  
+}
+
+.imgRedes{
+    width: auto;
+    height: 4vh; 
+}
+
+.contato{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 1em;  
+}
+
+.informacoes{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-top: 5em;
+}
+
+.informacoes a {  /*para tirar a decoração dos links*/
+    text-decoration: none;
+    color: black;
+}
+
+.sobreNos{
+    width: 18vw;
+}
+
+.listas{
+    justify-items: center;
+}
+
+.imgLogo{
+    width: 10vw;
+    align-self: center;
+}
+
+.integrantes{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 3em;
+    padding-bottom: 2em;
+}

@@ -3,7 +3,8 @@
 //.
 
 // Componentes
-    import Header from "../components/Header"
+    // import Header from "../components/Header"
+    import Footer from "../components/Footer"
 //.
 
 // Pages
@@ -13,6 +14,7 @@ function Home(){
     return(
         <>
             
+           <Footer /> 
         </>
     )
 }
