@@ -1,5 +1,6 @@
 import Card from "../components/Card"
 import Header from "../components/Header";
+import Footer from "../components/Footer"
 
 function Pagina2 () {
     return (
@@ -16,6 +17,7 @@ function Pagina2 () {
        Link="http://localhost:5173/disney-eua"
       />
   </center>
+<Footer/>
       </>
     );
   }
