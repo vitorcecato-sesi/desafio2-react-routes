@@ -15,10 +15,14 @@ function Page3() {
           e atrações para todas as idades, oferece experiências inesquecíveis para toda a família. Seja em Orlando, Paris, 
           Tóquio ou outras localizações, a Disney é um destino perfeito para quem busca diversão, aventura e momentos de pura fantasia."
           Estrelas="⭐⭐⭐⭐⭐"
-          Valor="Valor: 5.000,00"
+          Valor="Valor: 4.895,00"
           Proximo="Proximo"
         />
       </center>
+
+      <br />
+      <br />
+      <br />
 
       <Footer />
     </>
