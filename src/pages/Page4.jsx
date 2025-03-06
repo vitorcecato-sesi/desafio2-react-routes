@@ -19,6 +19,11 @@ function Page4(){
          Link = "http://localhost:5173/interlaken-suica"
         />
     </center>
+    
+<br></br>
+<br></br>
+<br></br>
+
     <Footer/>
         </> 
       );
