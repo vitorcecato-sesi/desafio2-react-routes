@@ -1,5 +1,6 @@
 import Header from "../components/Header"
 import Card from "../components/Card"
+import Footer from "../components/Footer";
 
 function Pagina1 () {
     return (
@@ -16,6 +17,8 @@ function Pagina1 () {
        Link = ""
       />
   </center>
+
+  <Footer/>
       </>
     );
   }
