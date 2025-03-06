@@ -3,8 +3,9 @@
 //.
 
 // Componentes
-    // import Header from "../components/Header"
-//.
+   // import Header from "../components/Header"
+    import NavBar from "../components/Navbar"
+
 
 // Pages
 //.
@@ -12,7 +13,7 @@
 function Home(){
     return(
         <>
-            
+            <NavBar />
         </>
     )
 }
