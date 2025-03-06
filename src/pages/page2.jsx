@@ -17,6 +17,11 @@ function Pagina2 () {
        Link="http://localhost:5173/disney-eua"
       />
   </center>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  
 <Footer/>
       </>
     );
