@@ -13,6 +13,7 @@ function App() {
           <Route path='/paris-franca' element={} />
           <Route path='/disney-eua' element={} /> 
           <Route path='/newyork-eua' element={} />          */}
+          <Route path='/newyork-eua' element={<Page4/>} />  
         </Routes>
       </BrowserRouter>
     </>

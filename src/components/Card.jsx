@@ -24,7 +24,7 @@ function Card(props){
             </div>
 
            <div className="BoxBotao">  
-            <button className="Botao">{props.Proximo}</button>
+            <a className="Botao" href={props.Link}>{props.Proximo}</a>
             </div>
     
             
