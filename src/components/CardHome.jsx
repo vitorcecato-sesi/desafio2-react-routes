@@ -1,5 +1,5 @@
 import "./CardHome.css"
-import { useState } from "react"
+import { use, useState } from "react"
 
 
 
@@ -7,34 +7,35 @@ import { useState } from "react"
 function Card (props) {
 
     const [curtir, setCurtir] = useState("Curtir")
-    let contaCurtida = 0
+    const [contaCurtida, setContaCurtida] = useState (0)
 
-function curtindo() {
+    function curtindo() {
 
-    if (curtir === "Curtir"){
-        setCurtir("Curtindo")
-        contaCurtida++
+        if (curtir === "Curtir"){
+            setCurtir("Curtido")
+            setContaCurtida(contaCurtida+1)
 
+        }
+        else {
+            setCurtir("Curtir")   // Alterar o estado do botão para seguir
+            setContaCurtida (contaCurtida-1)
+        }
     }
-    else {
-        setCurtir("Curtir")   // Alterar o estado do botão para seguir
-        contaCurtida--
-    }
-}
-
-
 
     return (
         <>
         <section className="blocoCard">
-            <img>{props.imagem}</img>
+            <img className="imagemVia" src={props.imagem}></img>
+            <section className="blocoTextos">
             <h2>{props.nomeLugar}</h2>
             <p>{props.breveDescricao}</p>
+            </section>
             <section className="blocoCard2">
-            <button onClick={curtindo}>{curtir} {contaCurtida}</button>
+            <button className="botaoCurtida" onClick={curtindo}>{curtir} <span>{contaCurtida}</span></button>
             <p>⭐⭐⭐⭐⭐</p>
             </section>
-            <P>{props.valor}</P>
+            <a href={props.direcionar} className="explorar">Explorar</a>
+            <p className="valor">{props.valor}</p>
         </section>
 
         </>

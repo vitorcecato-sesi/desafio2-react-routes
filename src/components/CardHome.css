@@ -2,13 +2,61 @@
     background-color: #F7F4F4;
     display: flex;
     flex-direction: column;
+    width: 20vw;
+    height: 60vh;
+    justify-content: space-between;
+    
+}
+
+.blocoCard:hover {
+    box-shadow: 0em 0.4em 1em gainsboro;
+    transition: 0.2s;
+    
+}
+
+.blocoTextos {
+    display: flex;
+    flex-direction: column;
+    padding-left: 0.5em;
 }
 
 .blocoCard2 {
     display: flex;
     flex-direction: row;
+    justify-content: space-around;
 }
 
-.imagem {
-    
+.imagemVia {
+width: 20vw;
+height: 30vh;
 }
+
+.botaoCurtida {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+    background-color: red;
+    color: white;
+    width: 6vw;
+    padding: 0.5em;
+    border-style: none;
+    border-radius: 0.3em;
+    cursor: pointer;
+
+}
+
+.explorar {
+    color: rgb(126, 126, 249);
+    padding-left: 0.5vw;
+    width: 1vw;
+    cursor: pointer;
+}
+
+.valor {
+    background-color: #F0ECEC;
+    width: 19.3 vw;
+    padding: 0.3vw;
+    border: #969393 solid 1px;
+}
+
