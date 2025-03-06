@@ -38,14 +38,14 @@ function Footer () {
 
             <section className="listas"> 
                 <h4> 📍 Principais Destinos</h4>
-                <a href=""></a> 🌉 Suiça <br/>
-                <a href=""> 🗼 Paris </a> <br/>
-                <a href=""> 🐀 Disney Word </a> <br/>
-                <a href=""> 🗽 New York </a>
+                <a href=""></a>⛰️ Suiça <br/>
+                <a href="">🥐 Paris </a> <br/>
+                <a href="">🏰 Disney Word </a> <br/>
+                <a href="">🗽 New York </a>
             </section>
 
             <section className="listas"> 
-                <h4> 🛫 Companhias Aéreas Internacionais </h4>
+                <h4> ✈️ Companhias Aéreas Internacionais </h4>
                     <a href="https://www.flytap.com/pt-br"> Tap Air </a> <br/>
                     <a href="https://www.copaair.com/pt-br/"> Copa Airlines </a> <br/>
                     <a href="https://wwws.airfrance.com.br/"> Air France </a> <br/>
@@ -56,7 +56,7 @@ function Footer () {
             </section>
 
             <section className="listas">  
-                <h4> 🛫 Companhias Aéreas Nacionais </h4>
+                <h4> ✈️ Companhias Aéreas Nacionais </h4>
                 <ul>
                     <a href="https://www.voeazul.com.br/br/pt/home"> Azul </a> <br/>
                     <a href="https://www.voegol.com.br/"> VoeGol </a> <br/>
