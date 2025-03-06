@@ -12,5 +12,11 @@
     font-size: 1.3em;
     display: flex;
     text-decoration: none;
+    transition: all 1s ease;
+    color: black;
 }
 
+.fonte:hover {
+    transform: scale(1.1);
+    color: black;
+}
