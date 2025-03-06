@@ -1,7 +1,6 @@
 import Header from "../components/Header"
 import Card from "../components/Card"
 
-
 function Pagina1 () {
     return (
       <>

@@ -11,15 +11,17 @@
     margin-top : 6em ;
 }
 
-.Valor{
-    background-color: #E6E6E6;
-    padding: 0.4em;
-    width: 100%;
-}
-
 .imagem{
     width: 60%;
     height: 60%;
+}
+
+.ImagemETitulo{
+    padding-bottom: 4em;
+}
+
+.ImagemETitulo{
+    padding-bottom: 4em;
 }
 
 .Descricao{
@@ -28,14 +30,18 @@
   border-radius: 4em;
   background-color: #E6E6E6;
   width: 26vw;
-  padding: 1.3em;
+  padding: 1.7em;
   height: 10em;
+  align-items: center;
 
 }
 
-.ImagemETitulo{
-    padding-bottom: 4em;
+.Valor{
+    background-color: #E6E6E6;
+    padding: 0.4em;
+    width: 100%;
 }
+
 
 .Estrelas{
     padding-top: 2em;
@@ -45,9 +51,11 @@
 .Botao{
     background-color: #12CDD4;
     padding: 0.8em;
-    width: 7em;
+    border-radius: 1em;
+    border: solid black 0.1em;
 }
 
 .BoxBotao{
     padding-top:1.9em;
+
 }
