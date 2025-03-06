@@ -16,10 +16,10 @@ function App() {
       <BrowserRouter>
         <Routes>
           <Route path='/' element={<Home/>} />
-          {/* <Route path='/interlaken-suica' element={}/>
+          <Route path='/interlakqn-suica' element={}/>
           <Route path='/paris-franca' element={} />
           <Route path='/disney-eua' element={} /> 
-          <Route path='/newyork-eua' element={} />          */}
+          <Route path='/newyork-eua' element={} />         
         </Routes>
       </BrowserRouter>
 
