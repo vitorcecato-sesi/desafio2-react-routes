@@ -1,6 +1,6 @@
 .boxCard{
     border: black solid 2px;
-    border-radius: 2em;
+    border-radius: 4em;
     background-color: #D8EEFB;
     padding: 3em;
 }
@@ -15,7 +15,6 @@
     background-color: #E6E6E6;
     padding: 0.4em;
     width: 100%;
-   
 }
 
 .imagem{
@@ -24,14 +23,12 @@
 }
 
 .Descricao{
-
     display: flex;
-border: black solid 2px;
-  border-radius: 10%;
+    border: black solid 2px;
+  border-radius: 4em;
   background-color: #E6E6E6;
   width: 26vw;
   padding: 1.3em;
-  
   height: 10em;
 
 }
