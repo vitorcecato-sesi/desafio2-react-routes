@@ -26,8 +26,9 @@
   border-radius: 4em;
   background-color: #E6E6E6;
   width: 26vw;
-  padding: 1.3em;
+  padding: 1.7em;
   height: 10em;
+  align-items: center;
 
 }
 
@@ -46,9 +47,11 @@
 .Botao{
     background-color: #12CDD4;
     padding: 0.8em;
-    width: 7em;
+    border-radius: 1em;
+    border: solid black 0.1em;
 }
 
 .BoxBotao{
     padding-top:1.9em;
+
 }
