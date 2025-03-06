@@ -1,7 +1,7 @@
 .boxCard{
     border: black solid 2px;
     border-radius: 2em;
-    background-color: #93d7ff;
+    background-color: #D8EEFB;
     padding: 3em;
 }
 
@@ -12,7 +12,7 @@
 }
 
 .Valor{
-    background-color: #ff1717;
+    background-color: #E6E6E6;
     padding: 0.4em;
     width: 100%;
    
@@ -24,12 +24,14 @@
 }
 
 .Descricao{
+
+    display: flex;
 border: black solid 2px;
-  border-radius: 40%;
-  background-color: #ff1717;
+  border-radius: 10%;
+  background-color: #E6E6E6;
   width: 26vw;
   padding: 1.3em;
-  height: auto;
+  height: 10em;
 
 }
 
