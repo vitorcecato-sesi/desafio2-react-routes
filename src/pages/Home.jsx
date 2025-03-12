@@ -1,5 +1,6 @@
 // Style
     import "./style/Home.css"
+    import Pagina2 from "./page2"
 //.
 
 // Componentes
