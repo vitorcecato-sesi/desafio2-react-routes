@@ -14,7 +14,7 @@ function Pagina1 () {
        Estrelas="⭐⭐⭐⭐⭐"
        Valor="Valor: R$ 4.569.20"
        Proximo='Proximo'
-       Link = ""
+       Link = "http://localhost:5173/paris-franca"
       />
   </center>
 
