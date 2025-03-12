@@ -17,7 +17,7 @@ function Home(){
     return(
         <>
             <Header />
-            <Navbar/>
+            <Navbar home="ativo" />
             <section className="banner">
                 <h1>AS <span>MELHORES</span> <br /> VIAGENS DO <span>MUNDO <br /> INTEIRO</span></h1>
             </section>
