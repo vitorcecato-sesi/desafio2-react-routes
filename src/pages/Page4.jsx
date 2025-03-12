@@ -3,6 +3,7 @@ import Card from "../components/Card"
 import Header from "../components/Header"
 import NovaYork from "../assets/NewYork.png"
 import Footer from "../components/Footer"
+import Navbar from "../components/NavBar"
 
 function Page4(){
     return (
