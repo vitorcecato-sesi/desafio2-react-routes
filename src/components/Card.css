@@ -8,7 +8,7 @@
 .Blocao{
     padding-left: 30em;
     padding-right: 30em ;
-    padding-top: 5em;
+    padding-top: 3em;
 }
 
 .imagem{
@@ -17,7 +17,7 @@
     border-radius: 0.7em;
 }
 
-.ImagemETitulo h1{
+.ImagemETitulo h2{
     padding: 1em;
     font-size: 1.3em;
 }
