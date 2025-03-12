@@ -1,36 +1,34 @@
 .boxCard{
     border: black solid 2px;
-    border-radius: 4em;
+    border-radius: 2em;
     background-color: #D8EEFB;
-    padding: 3em;
+    padding: 2em;
 }
 
 .Blocao{
     padding-left: 30em;
     padding-right: 30em ;
-    margin-top : 4em ;
+    padding-top: 5em;
 }
 
 .imagem{
     width: 60%;
     height: 60%;
+    border-radius: 0.7em;
 }
 
-.ImagemETitulo{
-    padding-bottom: 4em;
-}
-
-.ImagemETitulo{
-    padding-bottom: 4em;
+.ImagemETitulo h1{
+    padding: 1em;
+    font-size: 1.3em;
 }
 
 .Descricao{
     display: flex;
     border: black solid 2px;
-  border-radius: 4em;
+  border-radius: 1em;
   background-color: #E6E6E6;
   width: 26vw;
-  padding: 1.7em;
+  padding: 2em;
   height: 10em;
   align-items: center;
 
@@ -38,24 +36,26 @@
 
 .Valor{
     background-color: #E6E6E6;
-    padding: 0.4em;
-    width: 100%;
+    padding: 0.7em;
+    border-radius: 10px;
+    width: 50%;
 }
 
 
 .Estrelas{
-    padding-top: 2em;
-    padding-bottom: 2em;
+    padding-top: 1.3em;
+    padding-bottom: 1.3em;
+    font-size: 1.5em;
 }
 
 .Botao{
     background-color: #12CDD4;
-    padding: 0.8em;
+    padding: 1em;
     border-radius: 1em;
     border: solid black 0.1em;
+    text-decoration: none;
 }
 
 .BoxBotao{
-    padding-top:1.9em;
-
+    padding-top: 2.5em;
 }
