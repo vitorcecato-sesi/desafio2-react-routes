@@ -21,6 +21,10 @@ function Home(){
             <section className="banner">
                 <h1>AS <span>MELHORES</span> <br /> VIAGENS DO <span>MUNDO <br /> INTEIRO</span></h1>
             </section>
+            <section className="TituloDosPacotes">
+                <h1>Descubra o Mundo: Pacotes de Viagem Imperdíveis para Destinos Incríveis! ⬇</h1>
+                
+            </section>
             <section className="cards">
                 <Card
                     imagem= "https://www.travelmate.com.br/wp-content/uploads/2024/01/Chateau-dOex-Suica-1024x767.png"
