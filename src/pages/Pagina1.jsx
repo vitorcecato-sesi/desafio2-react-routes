@@ -1,3 +1,4 @@
+import "../pages/style/Page1.css"
 import Header from "../components/Header"
 import Card from "../components/Card"
 import Footer from "../components/Footer";
@@ -8,7 +9,13 @@ function Pagina1 () {
       <>
       <Header/>
       <Navbar suica="ativo"/>
+      <br />
+      <br />
       <center>
+        <section className="tituloECard">
+        <h1> Suiça </h1>
+        <img src="https://img.freepik.com/vetores-gratis/ilustracao-de-suica-bandeira_53876-27100.jpg?semt=ais_hybrid" alt="Suiça" />
+        </section>
       <Card 
        Foto="https://www.travelmate.com.br/wp-content/uploads/2024/01/Chateau-dOex-Suica-1024x767.png"
        Titulo="Interlaken - Suiça"

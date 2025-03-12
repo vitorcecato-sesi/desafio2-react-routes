@@ -14,13 +14,33 @@
     color: white;
 }
 
+/* Banner Titulo */
 .banner h1{
-    padding-left: 3em;
     font-size: 3em;
 }
 
-.banner span {
+/* Fundo do texto no banner */
+#bandeira {
+    background-color: #8ccdff;
+    padding: 0em 1em 0em 1em;
+}
+
+/* Palavras em Azul */
+#azul {
     color: #2D9BF0;
+}
+
+/* Icone invertido */
+.banner i {
+    transform: scaleX(-1);
+}
+
+.TituloDosPacotes{
+    padding-top: 2.5em;
+    padding-left: 4em;
+    padding-right: 1.3em;
+    font-family: "Sriracha", cursive;
+    font-size: 1.3em;
 }
 
 .cards {
@@ -28,7 +48,7 @@
     flex-direction: row;
     justify-content: space-evenly;
     align-items: center;
-    padding-top: 10em;
+    padding-top: 2em;
     width: 99vw;
     height: 70vh;
     padding-bottom: 10em;

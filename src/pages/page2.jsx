@@ -1,3 +1,4 @@
+import "../pages/style/Page2.css"
 import Card from "../components/Card"
 import Header from "../components/Header";
 import Navbar from "../components/NavBar"
@@ -8,7 +9,13 @@ function Pagina2 () {
       <>
       <Header />
       <Navbar franca="ativo"/>
+      <br />
+      <br />
       <center>
+      <section className="tituloECard">
+        <h1> França </h1>
+        <img src="https://img.freepik.com/vetores-gratis/ilustracao-de-franca-bandeira_53876-27099.jpg" alt="França" />
+        </section>
       <Card 
        Foto="https://img.static-af.com/transform/45cb9a13-b167-4842-8ea8-05d0cc7a4d04/"
        Titulo="Paris - França"

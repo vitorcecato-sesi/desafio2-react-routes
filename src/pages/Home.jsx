@@ -1,5 +1,5 @@
 // Style
-    import "./style/Home.css"
+import "./style/Home.css"
 //.
 
 // Componentes
@@ -19,7 +19,10 @@ function Home(){
             <Header />
             <Navbar home="ativo" />
             <section className="banner">
-                <h1>AS <span>MELHORES</span> <br /> VIAGENS DO <span>MUNDO <br /> INTEIRO</span></h1>
+                <marquee behavior="scroll" direction="left" scrollamount="12" scrolldelay="60"><h1><i className="fa-solid fa-plane"></i>--<span id="bandeira">AS <span id="azul">MELHORES</span> VIAGENS DO <span id="azul">MUNDO INTEIRO</span></span></h1></marquee>
+            </section>
+            <section className="TituloDosPacotes">
+                <h1>Descubra o Mundo: Pacotes de Viagem Imperdíveis para Destinos Incríveis! ⬇ </h1>    
             </section>
             <section className="cards">
                 <Card
