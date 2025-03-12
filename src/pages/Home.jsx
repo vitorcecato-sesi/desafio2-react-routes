@@ -19,6 +19,12 @@ function Home(){
             <Header />
             <Navbar home="ativo" />
             <section className="banner">
+                {/* Marquee: É uma tag html para animar o letreiro, movimentando ele pela página; 
+                    Behavior: Define a forma que o letreiro movimentará;
+                    Direction: Define para que lado o letreiro vai;
+                    Scrollamount: Define a velocidade da animação, baseado em pixels;
+                    Scrolldelay: Define o tempo que o letreiro aparecerá novamente.
+                */}
                 <marquee behavior="scroll" direction="left" scrollamount="12" scrolldelay="60"><h1><i className="fa-solid fa-plane"></i><span id="corda">--</span><span id="bandeira">AS <span id="azul">MELHORES</span> VIAGENS DO <span id="azul">MUNDO INTEIRO</span></span></h1></marquee>
             </section>
             <section className="TituloDosPacotes">
