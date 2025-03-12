@@ -34,7 +34,7 @@ function Card (props) {
                 <button className="botaoCurtida" onClick={curtindo}>{curtir} <span>{contaCurtida}</span></button>
                 <p>{props.estrela}</p>
             </section>
-            <a href={props.direcionar} className="explorar">Explorar</a>
+            <a href={props.direcionar} target="_blank" className="explorar">Explorar</a>
             <p className="valor">{props.valor}</p>
         </section>
 
