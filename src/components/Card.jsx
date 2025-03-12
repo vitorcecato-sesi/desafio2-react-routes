@@ -6,26 +6,26 @@ function Card(props){
 
         <section className="boxCard">
 
-            <div className="ImagemETitulo">
+            <section className="ImagemETitulo">
             <img className="imagem" src={props.Foto}></img>
             <h1>{props.Titulo}</h1>
-            </div>
+            </section>
 
-            <div className="Descricao">
+            <section className="Descricao">
             <p>{props.Descricao}</p>
-            </div>
+            </section>
 
-            <div className="Estrelas">
+            <section className="Estrelas">
             <p>{props.Estrelas}</p>
-            </div>
+            </section>
 
-            <div className="Valor">
+            <section className="Valor">
             <p>{props.Valor}</p>
-            </div>
+            </section>
 
-           <div className="BoxBotao">  
+           <section className="BoxBotao">  
             <a className="Botao" href={props.Link}>{props.Proximo}</a>
-            </div>
+            </section>
     
             
         </section>
