@@ -55,6 +55,10 @@
     justify-items: center;
 }
 
+.listas a:hover {
+    color: #2D9BF0;
+}
+
 .imgLogo{
     width: 10vw;
     align-self: center;
