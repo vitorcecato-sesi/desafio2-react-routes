@@ -56,7 +56,6 @@ function Home(){
                     direcionar= "http://localhost:5173/newyork-eua"
                     estrela = "⭐⭐⭐⭐"
                     valor= "R$ 2.389.10"
-                    estrela= "⭐⭐⭐⭐"
                 />
             </section>
             <Footer />
