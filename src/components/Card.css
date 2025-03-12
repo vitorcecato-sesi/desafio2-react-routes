@@ -73,7 +73,7 @@
     border: solid #132380 ;
 }
 
-a{
+.BoxBotao a{
     text-decoration: none;
     color: black;
     
@@ -83,7 +83,7 @@ a{
     box-shadow: 3px 3px 10px 0px #0a5e61 ;
 }
 
-h1{
+.ImagemETitulo h1{
     font-size: 1.5em;
     padding-top: 1.1em;
 }
@@ -93,19 +93,4 @@ h1{
     background-color: #12CDD4;
     transition-duration: 2s;
     border: solid #132380 ;
-}
-
-a{
-    text-decoration: none;
-    color: black;
-    
-}
-
-.Botao:hover{
-    box-shadow: 3px 3px 10px 0px #0a5e61 ;
-}
-
-h1{
-    font-size: 1.5em;
-    padding-top: 1.1em;
 }
