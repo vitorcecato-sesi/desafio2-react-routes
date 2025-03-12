@@ -25,7 +25,7 @@ function Home(){
                 <Card
                     imagem= "https://www.travelmate.com.br/wp-content/uploads/2024/01/Chateau-dOex-Suica-1024x767.png"
                     nomeLugar= "Interlakqn - Suiça"
-                    breveDescricao= "Interlaken é uma cidade na Suíça, entre os lagos Thun e Brienz, cercada pelos Alpes. Um lugar perfeito para quem busca beleza natural e tranquilidade."
+                    breveDescricao= "Interlaken é uma cidade na Suíça, entre os lagos Thun e Brienz, cercada pelos Alpes. Um lugar para quem busca beleza natural e tranquilidade."
                     direcionar= "http://localhost:5173/interlakqn-suica"
                     valor= "R$ 4.569.20"
                     estrela= "⭐⭐⭐⭐⭐"
