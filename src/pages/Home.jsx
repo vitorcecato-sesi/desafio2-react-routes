@@ -43,7 +43,7 @@ function Home(){
                 <Card
                     imagem= "https://www.cnnbrasil.com.br/viagemegastronomia/wp-content/uploads/sites/5/2021/02/comemoracao-disney-e1614010798887.jpg?w=750"
                     nomeLugar= "Disney - EUA"
-                    breveDescricao= "A Disney é um destino mágico, conhecido pelos seus parques temáticos e atrações para todas as idades, proporcionando diversão e momentos inesquecíveis."
+                    breveDescricao= "A Disney é um destino mágico, conhecido pelos seus parques temáticos e atrações para todas as idades."
                     direcionar= "http://localhost:5173/disney-eua"
                     valor= "R$ 4.895,00"
                     estrela= "⭐⭐⭐⭐⭐"
