@@ -1,4 +1,3 @@
-import "../pages/style/page4.css"
 import Card from "../components/Card"
 import Header from "../components/Header"
 import NovaYork from "../assets/NewYork.png"
