@@ -1,10 +1,13 @@
 import Card from "../components/Card"
 import Header from "../components/Header";
+import Navbar from "../components/NavBar"
+import Footer from "../components/Footer"
 
 function Pagina2 () {
     return (
       <>
       <Header />
+      <Navbar />
       <center>
       <Card 
        Foto="https://img.static-af.com/transform/45cb9a13-b167-4842-8ea8-05d0cc7a4d04/"
@@ -13,9 +16,15 @@ function Pagina2 () {
        Estrelas="⭐⭐⭐⭐⭐"
        Valor="Valor: R$ 5000,00"
        Proximo='Proximo'
-       Link="http://localhost:5173/"
+       Link="http://localhost:5173/disney-eua"
       />
   </center>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  
+<Footer/>
       </>
     );
   }

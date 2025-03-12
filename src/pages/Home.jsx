@@ -6,6 +6,7 @@
     import Header from "../components/Header"
     import Navbar from "../components/NavBar"
     import Card from "../components/CardHome"
+    import Footer from "../components/Footer"
 //.
 
 // Fotos
@@ -26,7 +27,7 @@ function Home(){
                     nomeLugar= "Interlakqn - Suiça"
                     breveDescricao= "Interlaken é uma cidade na Suíça, entre os lagos Thun e Brienz, cercada pelos Alpes. Um lugar perfeito para quem busca beleza natural e tranquilidade."
                     direcionar= "http://localhost:5173/interlakqn-suica"
-                    valor= ""
+                    valor= "R$ 4.569.20"
                 />
 
                 <Card
@@ -34,7 +35,7 @@ function Home(){
                     nomeLugar= "Paris - França"
                     breveDescricao= "Paris, a capital da França, é famosa por sua beleza e cultura. Com seus cafés e restaurantes, Paris é um paraíso gastronômico."
                     direcionar= "http://localhost:5173/paris-franca"
-                    valor= ""
+                    valor= "R$ 5000,00"
                 />
 
                 <Card
@@ -42,7 +43,7 @@ function Home(){
                     nomeLugar= "Disney - Estados Unidos"
                     breveDescricao= "A Disney é o lugar mais mágico para você e sua família!"
                     direcionar= "http://localhost:5173/disney-eua"
-                    valor= ""
+                    valor= "R$ 5.000,00"
                 />
 
                 <Card
@@ -50,9 +51,10 @@ function Home(){
                     nomeLugar= "Nova Iorque - Estados Unidos"
                     breveDescricao= "Nova York é uma cidade globalmente famosa, conhecida pela sua energia vibrante, a Estátua da Liberdade, Times Square e Central Park."
                     direcionar= "http://localhost:5173/newyork-eua"
-                    valor= ""
+                    valor= "R$ 2.389.10"
                 />
             </section>
+            <Footer />
         </>
     )
 }
