@@ -9,7 +9,14 @@ function Page4(){
         <>
         <Header/>
         <Navbar newyork="ativo"/>
-        <center>
+        <br />
+      <br />
+
+      <center>
+      <section className="tituloECard">
+        <h1> New York </h1>
+        <img src="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-dos-estados-unidos.png/@@images/image.png" alt="Estados Unidos" />
+        </section>
         <Card 
          Foto={NovaYork}
          Titulo="Nova York - Estados Unidos"

@@ -9,7 +9,14 @@ function Page3() {
       <Header />
       <Navbar disney="ativo"/>
 
+      <br />
+      <br />
+
       <center>
+      <section className="tituloECard">
+        <h1> Disney </h1>
+        <img src="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-dos-estados-unidos.png/@@images/image.png" alt="Estados Unidos" />
+        </section>
         <Card
           Foto="https://www.cnnbrasil.com.br/viagemegastronomia/wp-content/uploads/sites/5/2021/02/comemoracao-disney-e1614010798887.jpg?w=750"
           Titulo="Disney - Estados Unidos"

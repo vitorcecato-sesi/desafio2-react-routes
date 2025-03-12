@@ -8,7 +8,7 @@ function Card(props){
 
             <section className="ImagemETitulo">
             <img className="imagem" src={props.Foto}></img>
-            <h1>{props.Titulo}</h1>
+            <h2>{props.Titulo}</h2>
             </section>
 
             <section className="Descricao">
