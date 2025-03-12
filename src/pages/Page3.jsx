@@ -1,11 +1,13 @@
 import Card from "../components/Card";
 import Footer from "../components/Footer";
 import Header from "../components/Header";
+import Navbar from "../components/NavBar"
 
 function Page3() {
   return (
     <>
       <Header />
+      <Navbar />
 
       <center>
         <Card
