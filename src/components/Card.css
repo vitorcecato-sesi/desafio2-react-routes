@@ -67,7 +67,7 @@
     border: solid #132380 ;
 }
 
-a{
+.BoxBotao a{
     text-decoration: none;
     color: black;
     
@@ -75,9 +75,4 @@ a{
 
 .Botao:hover{
     box-shadow: 3px 3px 10px 0px #0a5e61 ;
-}
-
-h1{
-    font-size: 1.5em;
-    padding-top: 1.1em;
 }
