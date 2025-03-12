@@ -15,12 +15,20 @@
 }
 
 .banner h1{
-    padding-left: 3em;
     font-size: 3em;
 }
 
-.banner span {
+#bandeira {
+    background-color: #8ccdff;
+    padding: 0em 1em 0em 1em;
+}
+
+#azul {
     color: #2D9BF0;
+}
+
+.banner i {
+    transform: scaleX(-1);
 }
 
 .cards {
