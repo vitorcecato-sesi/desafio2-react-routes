@@ -25,8 +25,8 @@ function Card (props) {
     return (
         <>
         <section className="blocoCard">
+        <section className="blocoTextos">
             <img className="imagemVia" src={props.imagem}></img>
-            <section className="blocoTextos">
                 <h2>{props.nomeLugar}</h2>
                 <p>{props.breveDescricao}</p>
             </section>
@@ -34,7 +34,7 @@ function Card (props) {
                 <button className="botaoCurtida" onClick={curtindo}>{curtir} <span>{contaCurtida}</span></button>
                 <p>{props.estrela}</p>
             </section>
-            <a href={props.direcionar} target="_blank" className="explorar">Explorar</a>
+            <a href={props.direcionar} target="_blank" className="explorar">Veja mais</a>
             <p className="valor">{props.valor}</p>
         </section>
 

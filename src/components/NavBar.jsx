@@ -6,7 +6,7 @@ function Navbar(props) {
     <nav className="blocoNav">
       <Link className="fonte" id="link" to="/"> <span id={props.home}>Home 🏡</span> </Link>
 
-      <Link className="fonte" id="link" to="/interlakqn-suica"> <span id={props.suica}>Suiça 🛫</span> </Link>
+      <Link className="fonte" id="link" to="/interlaken-suica"> <span id={props.suica}>Suiça 🛫</span> </Link>
 
       <Link className="fonte" id="link" to="/paris-franca"> <span id={props.franca}>França 🛬</span> </Link>
 

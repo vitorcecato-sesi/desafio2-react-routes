@@ -1,4 +1,3 @@
-import "../pages/style/page4.css"
 import Card from "../components/Card"
 import Header from "../components/Header"
 import NovaYork from "../assets/NewYork.png"
@@ -18,7 +17,7 @@ function Page4(){
          Estrelas="⭐⭐⭐⭐"
          Valor="Valor: R$ 2.389.10"
          Proximo='Proximo'
-         Link = "http://localhost:5173/interlakqn-suica"
+         Link = "http://localhost:5173/interlaken-suica"
         />
     </center>
     
