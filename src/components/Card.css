@@ -50,12 +50,17 @@
 
 .Botao{
     background-color: #12CDD4;
-    padding: 1em;
-    border-radius: 1em;
+    padding: 0.7em;
+    border-radius: 10px;
     border: solid black 0.1em;
     text-decoration: none;
 }
 
+.BoxBotao:hover {
+    transform: scale(1.1);
+}
+
 .BoxBotao{
     padding-top: 2.5em;
+    transition: all 1s ease;
 }
