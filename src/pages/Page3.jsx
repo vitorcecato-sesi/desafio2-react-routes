@@ -7,7 +7,7 @@ function Page3() {
   return (
     <>
       <Header />
-      <Navbar />
+      <Navbar disney="ativo"/>
 
       <center>
         <Card

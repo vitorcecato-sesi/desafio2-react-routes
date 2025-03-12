@@ -7,7 +7,7 @@ function Pagina1 () {
     return (
       <>
       <Header/>
-      <Navbar/>
+      <Navbar suica="ativo"/>
       <center>
       <Card 
        Foto="https://www.travelmate.com.br/wp-content/uploads/2024/01/Chateau-dOex-Suica-1024x767.png"
