@@ -36,9 +36,11 @@
 }
 
 .TituloDosPacotes{
-    padding-top: 5em;
-    padding-left: 3.5em;
+    padding-top: 2.5em;
+    padding-left: 4em;
     padding-right: 1.3em;
+    font-family: "Sriracha", cursive;
+    font-size: 1.3em;
 }
 
 .cards {
