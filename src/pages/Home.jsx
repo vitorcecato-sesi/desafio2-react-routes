@@ -28,7 +28,7 @@ function Home(){
                     breveDescricao= "Interlaken é uma cidade na Suíça, entre os lagos Thun e Brienz, cercada pelos Alpes. Um lugar perfeito para quem busca beleza natural e tranquilidade."
                     direcionar= "http://localhost:5173/interlakqn-suica"
                     estrela = "⭐⭐⭐⭐⭐"
-                    valor= "R$ 4.569.20"
+                    valor= "R$ 4.569,20"
                 />
 
                 <Card
@@ -36,8 +36,8 @@ function Home(){
                     nomeLugar= "Paris - França"
                     breveDescricao= "Paris, a capital da França, é famosa por sua beleza e cultura. Com seus cafés e restaurantes, Paris é um paraíso gastronômico."
                     direcionar= "http://localhost:5173/paris-franca"
-                    estrela = "⭐⭐⭐⭐⭐"
-                    valor= "R$ 5000,00"
+                    estrela = "⭐⭐⭐⭐"
+                    valor= "R$ 5.000,00"
                 />
 
                 <Card
