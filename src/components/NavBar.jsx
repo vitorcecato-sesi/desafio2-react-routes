@@ -6,13 +6,13 @@ function Navbar() {
     <nav className="blocoNav">
       <Link className="fonte" id="link" to="/"> Home 🏡 </Link>
 
-      <Link className="fonte" id="link" to="/page1"> Page 1 🛫 </Link>
+      <Link className="fonte" id="link" to="/interlakqn-suica"> Page 1 🛫 </Link>
 
-      <Link className="fonte" id="link" to="/page2"> Page 2 🛬 </Link>
+      <Link className="fonte" id="link" to="/paris-franca"> Page 2 🛬 </Link>
 
-      <Link className="fonte" id="link" to="/page3"> Page 3 🛫 </Link>
+      <Link className="fonte" id="link" to="/disney-eua"> Page 3 🛫 </Link>
 
-      <Link className="fonte" id="link" to="/page4"> Page 4 🛬 </Link>
+      <Link className="fonte" id="link" to="/newyork-eua"> Page 4 🛬 </Link>
     </nav>
   );
 }
