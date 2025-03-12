@@ -38,29 +38,29 @@ function Footer () {
 
                 <section className="listas"> 
                     <h4> 📍 Principais Destinos</h4>
-                    <a href="http://localhost:5173/interlakqn-suica">⛰️ Suiça</a> <br/>
-                    <a href="http://localhost:5173/paris-franca">🥐 Paris </a> <br/>
-                    <a href="http://localhost:5173/disney-eua">🏰 Disney Word </a> <br/>
-                    <a href="http://localhost:5173/newyork-eua">🗽 Nova York </a>
+                    <a href="http://localhost:5173/interlakqn-suica" target="_blank">⛰️ Suiça</a> <br/>
+                    <a href="http://localhost:5173/paris-franca" target="_blank">🥐 Paris </a> <br/>
+                    <a href="http://localhost:5173/disney-eua" target="_blank">🏰 Disney Word </a> <br/>
+                    <a href="http://localhost:5173/newyork-eua" target="_blank">🗽 Nova York </a>
                 </section>
 
                 <section className="listas"> 
                     <h4> ✈️ Companhias Aéreas Internacionais </h4>
-                        <a href="https://www.flytap.com/pt-br"> Tap Air </a> <br/>
-                        <a href="https://www.copaair.com/pt-br/"> Copa Airlines </a> <br/>
-                        <a href="https://wwws.airfrance.com.br/"> Air France </a> <br/>
-                        <a href="https://www.aa.com.br/homePage.do?locale=pt_BR"> American Arlines</a> <br/>
-                        <a href="https://www.airchina.com.br/BR/PO/Home"> Air China </a> <br/>
-                        <a href="https://www.emirates.com/br/portuguese/"> Emirates </a>  
+                        <a href="https://www.flytap.com/pt-br" target="_blank"> Tap Air </a> <br/>
+                        <a href="https://www.copaair.com/pt-br/" target="_blank"> Copa Airlines </a> <br/>
+                        <a href="https://wwws.airfrance.com.br/" target="_blank"> Air France </a> <br/>
+                        <a href="https://www.aa.com.br/homePage.do?locale=pt_BR" target="_blank"> American Arlines</a> <br/>
+                        <a href="https://www.airchina.com.br/BR/PO/Home" target="_blank"> Air China </a> <br/>
+                        <a href="https://www.emirates.com/br/portuguese/" target="_blank"> Emirates </a>  
                 </section>
 
                 <section className="listas">  
                     <h4> ✈️ Companhias Aéreas Nacionais </h4>
-                        <a href="https://www.voeazul.com.br/br/pt/home"> Azul </a> <br/>
-                        <a href="https://www.voegol.com.br/"> VoeGol </a> <br/>
-                        <a href="https://www.latamairlines.com/br/pt"> Latam</a> <br/>
-                        <a href="https://www.voepass.com.br/empresa/site/"> VoePass </a> <br/>
-                        <a href="https://www.avianca.com/pt/"> Avianca</a>            
+                        <a href="https://www.voeazul.com.br/br/pt/home" target="_blank"> Azul </a> <br/>
+                        <a href="https://www.voegol.com.br/" target="_blank"> VoeGol </a> <br/>
+                        <a href="https://www.latamairlines.com/br/pt" target="_blank"> Latam</a> <br/>
+                        <a href="https://www.voepass.com.br/empresa/site/" target="_blank"> VoePass </a> <br/>
+                        <a href="https://www.avianca.com/pt/" target="_blank"> Avianca</a>            
                 </section>
 
             </section>
