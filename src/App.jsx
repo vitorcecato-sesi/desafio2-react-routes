@@ -20,7 +20,7 @@ function App() {
       <BrowserRouter>
         <Routes>
           <Route path='/' element={<Home/>} />
-          <Route path='/interlakqn-suica' element={<Pagina1 />}/>
+          <Route path='/interlaken-suica' element={<Pagina1 />}/>
           <Route path='/paris-franca' element={<Pagina2 />} />
           <Route path='/disney-eua' element={<Page3 />} /> 
           <Route path='/newyork-eua' element={<Page4/>} />         
