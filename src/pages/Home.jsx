@@ -6,6 +6,7 @@
     import Header from "../components/Header"
     import Navbar from "../components/NavBar"
     import Card from "../components/CardHome"
+    import Footer from "../components/Footer"
 //.
 
 // Fotos
