@@ -1,10 +1,12 @@
 import Card from "../components/Card"
 import Header from "../components/Header";
+import Navbar from "../components/NavBar"
 
 function Pagina2 () {
     return (
       <>
       <Header />
+      <Navbar />
       <center>
       <Card 
        Foto="https://img.static-af.com/transform/45cb9a13-b167-4842-8ea8-05d0cc7a4d04/"

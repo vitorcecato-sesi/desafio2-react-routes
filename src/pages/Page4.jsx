@@ -8,6 +8,7 @@ function Page4(){
     return (
         <>
         <Header/>
+        <Navbar/>
         <center>
         <Card 
          Foto={NovaYork}
