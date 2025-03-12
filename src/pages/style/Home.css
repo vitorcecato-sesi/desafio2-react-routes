@@ -14,21 +14,31 @@
     color: white;
 }
 
+/* Banner Titulo */
 .banner h1{
     font-size: 3em;
 }
 
+/* Fundo do texto no banner */
 #bandeira {
     background-color: #8ccdff;
     padding: 0em 1em 0em 1em;
 }
 
+/* Palavras em Azul */
 #azul {
     color: #2D9BF0;
 }
 
+/* Icone invertido */
 .banner i {
     transform: scaleX(-1);
+}
+
+.TituloDosPacotes{
+    padding-top: 5em;
+    padding-left: 3.5em;
+    padding-right: 1.3em;
 }
 
 .cards {
@@ -40,9 +50,4 @@
     width: 99vw;
     height: 70vh;
     padding-bottom: 10em;
-}
-.TituloDosPacotes{
-    padding-top: 5em;
-    padding-left: 3.5em;
-    padding-right: 1.3em;
 }
