@@ -19,6 +19,7 @@ function Page3() {
           Estrelas="⭐⭐⭐⭐⭐"
           Valor="Valor: 4.895,00"
           Proximo="Proximo"
+          Link="http://localhost:5173/newyork-eua"
         />
       </center>
 
