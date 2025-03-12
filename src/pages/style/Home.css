@@ -36,8 +36,13 @@
     flex-direction: row;
     justify-content: space-evenly;
     align-items: center;
-    padding-top: 10em;
+    padding-top: 2em;
     width: 99vw;
     height: 70vh;
     padding-bottom: 10em;
+}
+.TituloDosPacotes{
+    padding-top: 5em;
+    padding-left: 3.5em;
+    padding-right: 1.3em;
 }
