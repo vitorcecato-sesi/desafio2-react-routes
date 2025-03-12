@@ -36,13 +36,13 @@ function Home(){
                     nomeLugar= "Paris - França"
                     breveDescricao= "Paris, a capital da França, é famosa por sua beleza e cultura. Com seus cafés e restaurantes, Paris é um paraíso gastronômico."
                     direcionar= "http://localhost:5173/paris-franca"
-                    valor= "R$ 5000,00"
-                    estrela= "⭐⭐⭐⭐"
+                    estrela = "⭐⭐⭐⭐"
+                    valor= "R$ 5.000,00"
                 />
 
                 <Card
                     imagem= "https://www.cnnbrasil.com.br/viagemegastronomia/wp-content/uploads/sites/5/2021/02/comemoracao-disney-e1614010798887.jpg?w=750"
-                    nomeLugar= "Disney - Estados Unidos"
+                    nomeLugar= "Disney - EUA"
                     breveDescricao= "A Disney é o lugar mais mágico para você e sua família!"
                     direcionar= "http://localhost:5173/disney-eua"
                     valor= "R$ 4.895,00"
@@ -51,9 +51,10 @@ function Home(){
 
                 <Card
                     imagem= {NewYork}
-                    nomeLugar= "Nova Iorque - Estados Unidos"
+                    nomeLugar= "Nova Iorque - EUA"
                     breveDescricao= "Nova York é uma cidade globalmente famosa, conhecida pela sua energia vibrante, a Estátua da Liberdade, Times Square e Central Park."
                     direcionar= "http://localhost:5173/newyork-eua"
+                    estrela = "⭐⭐⭐⭐"
                     valor= "R$ 2.389.10"
                     estrela= "⭐⭐⭐⭐"
                 />
