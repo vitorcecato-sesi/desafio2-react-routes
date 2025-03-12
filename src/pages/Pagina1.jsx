@@ -19,6 +19,8 @@ function Pagina1 () {
        Link = "http://localhost:5173/paris-franca"
       />
   </center>
+  <br></br>
+  <br></br>
 
   <Footer/>
       </>

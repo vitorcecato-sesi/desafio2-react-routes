@@ -28,6 +28,7 @@ function Home(){
                     breveDescricao= "Interlaken é uma cidade na Suíça, entre os lagos Thun e Brienz, cercada pelos Alpes. Um lugar perfeito para quem busca beleza natural e tranquilidade."
                     direcionar= "http://localhost:5173/interlakqn-suica"
                     valor= "R$ 4.569.20"
+                    estrela= "⭐⭐⭐⭐⭐"
                 />
 
                 <Card
@@ -36,6 +37,7 @@ function Home(){
                     breveDescricao= "Paris, a capital da França, é famosa por sua beleza e cultura. Com seus cafés e restaurantes, Paris é um paraíso gastronômico."
                     direcionar= "http://localhost:5173/paris-franca"
                     valor= "R$ 5000,00"
+                    estrela= "⭐⭐⭐⭐"
                 />
 
                 <Card
@@ -43,7 +45,8 @@ function Home(){
                     nomeLugar= "Disney - Estados Unidos"
                     breveDescricao= "A Disney é o lugar mais mágico para você e sua família!"
                     direcionar= "http://localhost:5173/disney-eua"
-                    valor= "R$ 5.000,00"
+                    valor= "R$ 4.895,00"
+                    estrela= "⭐⭐⭐⭐⭐"
                 />
 
                 <Card
@@ -52,6 +55,7 @@ function Home(){
                     breveDescricao= "Nova York é uma cidade globalmente famosa, conhecida pela sua energia vibrante, a Estátua da Liberdade, Times Square e Central Park."
                     direcionar= "http://localhost:5173/newyork-eua"
                     valor= "R$ 2.389.10"
+                    estrela= "⭐⭐⭐⭐"
                 />
             </section>
             <Footer />
