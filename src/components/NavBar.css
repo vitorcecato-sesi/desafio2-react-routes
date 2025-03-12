@@ -20,3 +20,7 @@
     transform: scale(1.1);
     color: black;
 }
+
+#ativo {
+    border-bottom: 0.1em solid #2fc6f8;
+}

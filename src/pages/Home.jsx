@@ -17,7 +17,7 @@ function Home(){
     return(
         <>
             <Header />
-            <Navbar/>
+            <Navbar home="ativo" />
             <section className="banner">
                 <h1>AS <span>MELHORES</span> <br /> VIAGENS DO <span>MUNDO <br /> INTEIRO</span></h1>
             </section>
@@ -27,8 +27,8 @@ function Home(){
                     nomeLugar= "Interlakqn - Suiça"
                     breveDescricao= "Interlaken é uma cidade na Suíça, entre os lagos Thun e Brienz, cercada pelos Alpes. Um lugar perfeito para quem busca beleza natural e tranquilidade."
                     direcionar= "http://localhost:5173/interlakqn-suica"
-                    estrela = "⭐⭐⭐⭐⭐"
-                    valor= "R$ 4.569,20"
+                    valor= "R$ 4.569.20"
+                    estrela= "⭐⭐⭐⭐⭐"
                 />
 
                 <Card
@@ -45,8 +45,8 @@ function Home(){
                     nomeLugar= "Disney - EUA"
                     breveDescricao= "A Disney é o lugar mais mágico para você e sua família!"
                     direcionar= "http://localhost:5173/disney-eua"
-                    estrela = "⭐⭐⭐⭐⭐"
-                    valor= "R$ 5.000,00"
+                    valor= "R$ 4.895,00"
+                    estrela= "⭐⭐⭐⭐⭐"
                 />
 
                 <Card
@@ -56,6 +56,7 @@ function Home(){
                     direcionar= "http://localhost:5173/newyork-eua"
                     estrela = "⭐⭐⭐⭐"
                     valor= "R$ 2.389.10"
+                    estrela= "⭐⭐⭐⭐"
                 />
             </section>
             <Footer />
