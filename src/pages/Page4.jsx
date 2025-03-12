@@ -9,7 +9,7 @@ function Page4(){
     return (
         <>
         <Header/>
-        <Navbar/>
+        <Navbar newyork="ativo"/>
         <center>
         <Card 
          Foto={NovaYork}
