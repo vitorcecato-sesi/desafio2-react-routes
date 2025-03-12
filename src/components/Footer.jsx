@@ -38,7 +38,7 @@ function Footer () {
 
                 <section className="listas"> 
                     <h4> 📍 Principais Destinos</h4>
-                    <a href="http://localhost:5173/interlakqn-suica" target="_blank">⛰️ Suiça</a> <br/>
+                    <a href="http://localhost:5173/interlaken-suica" target="_blank">⛰️ Suiça</a> <br/>
                     <a href="http://localhost:5173/paris-franca" target="_blank">🥐 Paris </a> <br/>
                     <a href="http://localhost:5173/disney-eua" target="_blank">🏰 Disney Word </a> <br/>
                     <a href="http://localhost:5173/newyork-eua" target="_blank">🗽 Nova York </a>
