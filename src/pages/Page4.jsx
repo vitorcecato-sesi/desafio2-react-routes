@@ -16,7 +16,7 @@ function Page4(){
          Estrelas="⭐⭐⭐⭐"
          Valor="Valor: R$ 2.389.10"
          Proximo='Proximo'
-         Link = "http://localhost:5173/interlaken-suica"
+         Link = "http://localhost:5173/interlakqn-suica"
         />
     </center>
     
